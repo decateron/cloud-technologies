@@ -1,3 +1,3 @@
-# hello-world
+# Cloud Technologies
 
-Repository of my ideas. Here I'll decribe my ideas and future projects
+This repository contains the code that helps to import, set up and use different cloud compute resources in your development environment.
